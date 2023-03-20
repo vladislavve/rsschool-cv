@@ -20,7 +20,41 @@ improving the level of English. I am well
 versed in someone else's code. I am ready to work and develop in this direction. I want
 to achieve high results and take on a major
 project 
-
+## Skills
+---
+* HTML
+* CSS/SASS
+* JavaScript(Basic)
+* Jquery
+* Bootstrap
+* Adaptive layout
+* Cross-browser layout
+## Code Example
+---
+```
+function sum(a, b) {
+  return a + b;
+}
+let final = sum(2, 8);
+alert(final);
+```
+## Experience
+---
+Sales Manager   
+A1 Co.
+## Education
+---
+Information Technology and Robotics,
+Software Engineer, bachelor's degree,
+Vitebsk State Technological University |
+2018-2022
+* Courses: 
+  + Frontend Development/Web Development, Udemy | 2021;
+  + javascript development, Hexlet | 2021
+## Languages
+---
+**English-A2** (I am studying at an English language school to improve my english skills)   
+**Russian-native**
 
 
 
